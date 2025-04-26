@@ -403,6 +403,8 @@ internal class View
             tryDelete("Balatro-APK-Patch");//TODO: remove when Android build changes
             //tryDelete("icons");//TODO: enable when Android build changes
             tryDelete("Balatro");
+            tryDelete("libdobby.so");
+            tryDelete("liblovely.so");
             tryDelete("balatro-apk");
             if (!gameProvided)
                 tryDelete("Balatro.exe");
