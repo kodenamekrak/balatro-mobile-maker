@@ -16,6 +16,10 @@ internal static class Constants
     //ADB
     public const string PlatformToolsLink = "https://dl.google.com/android/repository/platform-tools-latest-windows.zip";
 
+    // Lovely android
+    public const string LibLovelyAndroidLink = "https://github.com/kodenamekrak/lovely-injector/releases/latest/download/liblovely.so";
+    public const string LibDobbyAndroidLink = "https://github.com/kodenamekrak/lovely-injector/releases/latest/download/libdobby.so";
+
     //OpenJDK Download Links
     //TODO: Find JDK links for all platforms
     //Win
